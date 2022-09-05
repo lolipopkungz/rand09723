@@ -1,0 +1,15 @@
+{
+  "name": "rand09723",
+  "main": "rand09723",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "rand09723",
+  "keywords": [
+    "rand09723"
+  ],
+  "repository": "https://github.com/lolipopkungz/rand09723",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
